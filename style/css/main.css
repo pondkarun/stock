@@ -1,0 +1,66 @@
+body {
+  font-family: "TH Sarabun PSK";
+}
+
+.s1 h1 {
+  text-align: center;
+}
+.s1 h2 {
+  text-align: center;
+}
+.s1 h3 {
+  text-align: center;
+}
+.s1 h4 {
+  text-align: center;
+}
+.s1 h5 {
+  text-align: center;
+}
+.s1 h6 {
+  text-align: center;
+}
+
+.s2 h1 {
+  text-align: right;
+}
+.s2 h2 {
+  text-align: right;
+}
+.s2 h3 {
+  text-align: right;
+}
+.s2 h4 {
+  text-align: right;
+}
+.s2 h5 {
+  text-align: right;
+}
+.s2 h6 {
+  text-align: right;
+}
+.s2 p {
+  text-align: right;
+}
+
+.s5 {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.s6 {
+  padding-top: 15px;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table th {
+  border: 1px solid black;
+  text-align: center;
+}
+table td {
+  border: 1px solid black;
+}
